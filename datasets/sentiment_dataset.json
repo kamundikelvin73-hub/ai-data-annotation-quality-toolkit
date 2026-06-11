@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "The support team resolved my issue quickly.",
+    "label": "Positive"
+  },
+  {
+    "id": 2,
+    "text": "The app keeps freezing and I am very frustrated.",
+    "label": "Negative"
+  },
+  {
+    "id": 3,
+    "text": "My subscription renews next week.",
+    "label": "Neutral"
+  },
+  {
+    "id": 4,
+    "text": "The interface looks better, but loading time is worse.",
+    "label": "Mixed"
+  },
+  {
+    "id": 5,
+    "text": "I appreciate the help, but the issue is still unresolved.",
+    "label": "Mixed"
+  }
+]
