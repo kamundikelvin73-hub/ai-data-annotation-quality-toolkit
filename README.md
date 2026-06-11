@@ -39,7 +39,3 @@ ai-data-annotation-quality-toolkit-recruiter-ready/
 - Giving constructive reviewer feedback
 - Preparing datasets for AI training and evaluation
 - Measuring annotation quality
-
-## Disclaimer
-
-All data in this repository is synthetic and created for portfolio demonstration only. No client, employer, student, user, platform, or confidential data is included.
